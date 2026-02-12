@@ -52,12 +52,9 @@ export function DashboardSidebar({ open, onClose }: DashboardSidebarProps) {
       >
         {/* Header */}
         <div className="flex items-center justify-between px-5 py-5">
-          <Link href="/" className="flex items-center gap-2">
-            <div className="flex h-8 w-8 items-center justify-center rounded-lg bg-primary">
-              <span className="text-sm font-bold text-primary-foreground">A</span>
-            </div>
-            <span className="font-heading text-lg font-bold text-card-foreground">
-              Arc Finance
+          <Link href="/" className="flex items-center">
+            <span className="font-heading text-lg font-semibold text-card-foreground">
+              My Cash
             </span>
           </Link>
           <button

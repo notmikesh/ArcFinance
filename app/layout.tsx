@@ -9,7 +9,7 @@ const inter = Inter({ subsets: ["latin"], variable: "--font-inter" })
 const spaceGrotesk = Space_Grotesk({ subsets: ["latin"], variable: "--font-space-grotesk" })
 
 export const metadata: Metadata = {
-  title: "Arc Finance Dashboard",
+  title: "My Cash Dashboard",
   description: "Track your ARC blockchain finances in one simple dashboard.",
 }
 

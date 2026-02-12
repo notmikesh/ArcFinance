@@ -165,11 +165,8 @@ function Footer() {
     <footer className="border-t border-border px-6 py-8">
       <div className="mx-auto flex max-w-5xl flex-col items-center justify-between gap-4 sm:flex-row">
         <div className="flex items-center gap-2">
-          <div className="flex h-7 w-7 items-center justify-center rounded-lg bg-primary">
-            <span className="text-sm font-bold text-primary-foreground">A</span>
-          </div>
           <span className="font-heading text-sm font-semibold text-foreground">
-            Arc Finance
+            My Cash
           </span>
         </div>
         <p className="text-sm text-muted-foreground">
@@ -185,11 +182,8 @@ export default function LandingPage() {
     <main className="min-h-screen">
       <nav className="flex items-center justify-between px-6 py-4">
         <div className="flex items-center gap-2">
-          <div className="flex h-8 w-8 items-center justify-center rounded-lg bg-primary">
-            <span className="text-sm font-bold text-primary-foreground">A</span>
-          </div>
-          <span className="font-heading text-lg font-bold text-foreground">
-            Arc Finance
+          <span className="font-heading text-lg font-semibold text-foreground">
+            My Cash
           </span>
         </div>
         <Link href="/dashboard">

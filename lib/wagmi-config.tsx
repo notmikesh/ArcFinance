@@ -23,7 +23,7 @@ const arcChainForRainbow = {
 } as const
 
 export const wagmiConfig = getDefaultConfig({
-  appName: "Arc Finance Dashboard",
+  appName: "My Cash Dashboard",
   projectId,
   chains: [arcChainForRainbow],
   ssr: true,

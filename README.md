@@ -1,4 +1,4 @@
-# Arc Finance
+# My Cash
 
 A dashboard for tracking balances and transactions on the ARC blockchain. Connect a wallet, view your USDC balance and history, and use analytics and reports. Read-only: no private keys or signing required.
 
